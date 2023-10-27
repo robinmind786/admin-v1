@@ -88,7 +88,6 @@ const BuyNowButton = () => {
                 sx={{ mr: 4 }}
                 target='_blank'
                 variant='contained'
-                href='https://demos.themeselection.com/materio-mui-react-nextjs-admin-template/landing/'
               >
                 Demo
               </Button>
@@ -96,7 +95,7 @@ const BuyNowButton = () => {
                 component='a'
                 target='_blank'
                 variant='outlined'
-                href='https://themeselection.com/products/materio-mui-react-nextjs-admin-template/'
+                href='dfd'
               >
                 Download
               </Button>
