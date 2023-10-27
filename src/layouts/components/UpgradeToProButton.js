@@ -74,10 +74,10 @@ const BuyNowButton = () => {
             </a>
             <CardContent>
               <Typography sx={{ mb: 4 }} variant='h6'>
-                Materio - React Admin Template
+                Robin - React Admin Template
               </Typography>
               <Typography sx={{ mb: 4 }} variant='body2'>
-                Materio Admin is the most developer friendly & highly customizable Admin Dashboard Template based on MUI
+                Robin Admin is the most developer friendly & highly customizable Admin Dashboard Template based on MUI
                 and NextJS.
               </Typography>
               <Typography sx={{ mb: 4 }} variant='body2'>
